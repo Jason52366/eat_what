@@ -1,0 +1,43 @@
+.center
+{
+	padding-top: 50px;
+	text-align: center;
+}
+.lottery_box
+{
+	font-size: 24px;
+	font-weight: 900;
+	color: #336;
+}
+#lottery_top2, #lottery_bottom1
+{
+	opacity: 0.6;
+}
+#lottery_top1, #lottery_bottom2
+{
+	opacity: 0.3;
+}
+#lottery_mid
+{
+	color: #ae0;
+}
+#lottery_mid span
+{
+	color: #3e3;
+}
+.btn
+{
+	display: inline-block;
+	padding: 10px 30px;
+	border-radius: 8px;
+	background-color: #3a3;
+	color: #eee;
+	font-size: 24px;
+	cursor: pointer;
+}
+#eat_info
+{
+	padding-left: 42%;
+	text-align: left;
+	font-size: 18px;
+}
